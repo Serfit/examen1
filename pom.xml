@@ -6,8 +6,7 @@
 
   <groupId>com.platinum</groupId>
   <artifactId>CtaCorriente</artifactId>
-  <version>0.0.1-PLATINUM</version>
-  <packaging>pom</packaging>		
+  <version>0.0.1-PLATINUM</version>	
 
   <name>Examen autoatizacion de pruebas</name>
   <!-- FIXME change it to the project's website -->
